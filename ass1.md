@@ -15,3 +15,11 @@
 * Always Available
 
 
+**Creating Instance**
+
+[EC2](EC2.md)
+
+
+
+
+
