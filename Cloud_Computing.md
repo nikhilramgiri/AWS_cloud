@@ -14,4 +14,8 @@
 
 * Always Available
 
+**Create Instance**
+
+[EC2](EC2.md)
+
 
