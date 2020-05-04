@@ -16,6 +16,6 @@
 
 **Create Instance**
 
-[EC2](EC2.md)
+[EC2](EC-2.md)
 
 
